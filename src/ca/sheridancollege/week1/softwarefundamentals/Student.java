@@ -11,7 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Student {
     
-    private status;
+    private String status;
 
     public int getId() {
         return id;
